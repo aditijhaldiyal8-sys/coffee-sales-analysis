@@ -98,11 +98,10 @@ FILTERS:-
 -<img width="768" height="434" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/3b9eea66-b759-4253-8fb9-709aa4966105" />
 
 # Repository Structure 
-|
-|── coffee_analysis.sql
-|── coffee.pbix
-|── Coffee Shop Sales.csv
-|── README.md
+├── coffee_analysis.sql
+├── coffee.pbix
+├── Coffee Shop Sales.csv
+└── README.md
 
 # Author 
 Aditi Jhaldiyal
